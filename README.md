@@ -6,9 +6,9 @@ I'm an **Analytics Engineer** in the world of consultancy 🌍. After a STEM bac
 
 Over the **first 3 years** of my data career, I worked at an international consulting company 🌐 specializing in **Environmental, Energy, and Climate data analytics** 🌱. I conducted analyses on **Energy consumption** and **CO2 emissions** for cities, countries, and regions, shaping reports for prestigious clients like **World Bank**, **IFC**, **EBRD**, and **KfW** 💼.
 
-## Data Engineering Focus 🔧
+## Analytics Engineering Focus 🔧
 
-For the **next 3 years**, I shifted focus towards **analytics engineering**—leading projects on **data warehousing**, **ETL**, and **dashboard development**. This allowed me to help clients make data-driven decisions 📈.
+For the **next 3 years**, I shifted focus towards **analytics engineering** - leading projects on **data warehousing**, **ETL**, and **dashboard development**. This allowed me to help clients make data-driven decisions 📈.
 
 ## YouTube Channel 🎥
 
