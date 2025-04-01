@@ -1,12 +1,21 @@
-# About Me
+# About Me 👋
 
-I'm an **Analytics Engineer** in the world of consultancy. After a STEM background and 5 years in energy engineering, I transitioned to the field of data.
+I'm an **Analytics Engineer** in the world of consultancy 🌍. After a STEM background and 5 years in energy engineering ⚡, I transitioned into the world of **data** 📊.
 
-With 3 years of experience in **data analysis**, I worked at an international consulting company specializing in **Environmental, Energy, and Climate data analytics**. My analyses on **Energy consumption** and **CO2 emissions** for cities and countries have informed reports for prestigious clients, including the **World Bank, IFC, EBRD**, and **KfW**.
+## Data Analysis Journey 📈
 
-In the last 3 years, I’ve focused on **data analytics** and **engineering**—working on exciting projects like **data warehousing, ETL**, and **dashboard development**, helping clients make data-driven decisions.
+Over the **first 3 years** of my data career, I worked at an international consulting company 🌐 specializing in **Environmental, Energy, and Climate data analytics** 🌱. I conducted analyses on **Energy consumption** and **CO2 emissions** for cities, countries, and regions, shaping reports for prestigious clients like **World Bank**, **IFC**, **EBRD**, and **KfW** 💼.
 
-I’m also a **Ukrainian YouTuber** with a [channel](www.youtube.com/@ion_lab) focused on **data courses and tutorials**.
+## Data Engineering Focus 🔧
 
-Currently, I am a **University of London CS student**, specializing in **Machine Learning and AI**.
+For the **next 3 years**, I shifted focus towards **analytics engineering**—leading projects on **data warehousing**, **ETL**, and **dashboard development**. This allowed me to help clients make data-driven decisions 📈.
+
+## YouTube Channel 🎥
+
+I’m also a **Ukrainian YouTuber** 🇺🇦 with a [channel](https://www.youtube.com/@ion_lab) where I create **data courses** and tutorials to help others learn and grow in this exciting field.
+
+## Learning & Growing 🎓
+
+Currently, I am a **University of London CS student**, specializing in **Machine Learning** and **AI** 🤖.
+
 
