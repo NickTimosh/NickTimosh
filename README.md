@@ -11,7 +11,6 @@ In 2022, I transitioned fully into the tech field, diving deeper into data engin
 ✨ Other Activity
 
 * Creator of [Ukrainian educational youtube channel](https://www.youtube.com/@ion_lab) — over 1M views teaching SQL, BI tools, Python
-* Launched a [website](https://uahistory.online/) dedicated to the history of the Internet in Ukraine for educational purposes
 * Building skills in AI & Machine Learning at the University of London
   
 ---
